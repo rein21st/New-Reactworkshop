@@ -5,7 +5,10 @@ import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';      //Configured to use Bootstrap 4
 import 'typeface-lobster';
 import 'typeface-open-sans';
+import 'font-awesome/css/font-awesome.css';
+import 'bootstrap-social/bootstrap-social.css';
 import App from './App';
+
 
 ReactDOM.render(
   <React.StrictMode>
